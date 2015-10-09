@@ -1,7 +1,7 @@
 # JiraToExcel
 Importer of data from jira into excel. Single file excel template.
 
-VBA script only, for easy "deployment". Easily configureable. Queries Jira directly, parses resulting XML (implements IVBSAXContentHandler). Fast.
+VBA script only, for easy "deployment". Easily configurable. Queries Jira directly, parses resulting XML (implements IVBSAXContentHandler). Fast.
 
 ###Setup (see image below):
 * Download / copy to drive then open file in excel. Be sure to enable macros (click options in "Security Warning" bar) 
